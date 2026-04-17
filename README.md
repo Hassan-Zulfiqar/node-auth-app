@@ -155,8 +155,8 @@ npm run test:integration
 
 ## 📦 Submission Details
 
-* 🎥 Video Demonstration: (Add your video link)
-* 💻 GitHub Repository: (Add your repo link)
+* 🎥 Video Demonstration: https://drive.google.com/file/d/15ho9U40l1fb9lHE3bojZWL1c_uqvYpnx/view?usp=sharing
+* 💻 GitHub Repository: https://github.com/Hassan-Zulfiqar/node-auth-app
 
 ---
 

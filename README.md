@@ -1,5 +1,10 @@
 # Node.js Authentication App with Testing & Jenkins Pipeline
 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-29%20passing-brightgreen)
+![Node](https://img.shields.io/badge/node-v18-blue)
+![License](https://img.shields.io/badge/license-ISC-lightgrey)
+
 ---
 
 ## 📌 Project Overview
